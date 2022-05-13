@@ -1,0 +1,8 @@
+https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2
+https://www.nea.gov.sg/our-services/waste-management/waste-collection-systems
+https://data.gov.sg/dataset/solid-waste-management-total-waste-recycled?resource_id=00fe011e-e4fb-45c5-b23d-a62143048eba
+https://www.rootstrap.com/blog/how-to-build-a-waste-classifier-app-using-ai/
+https://github.com/microsoft/TrashClassifier
+https://data.gov.sg/dataset/resource-conservation-recycling-rate-by-waste-type
+https://govinsider.asia/innovation/four-ways-governments-are-using-data-visualisations/
+https://data.gov.sg/dataset?organization=pub-singapores-national-water-agency&groups=environment
